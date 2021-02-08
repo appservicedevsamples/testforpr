@@ -544,6 +544,10 @@
       }
     }
   ],
-  "outputs": {
+    "outputs": {
+    "AppName": {
+      "type": "string",
+      "value": "[parameters('AppName')]"
+    }
   }
 }
